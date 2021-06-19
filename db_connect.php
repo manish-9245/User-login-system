@@ -1,8 +1,8 @@
 <?php
 /* Database connection start */
 $servername = "localhost";
-$username="manishti_trip";
-$password="Password@9245";
+$username="*censored for security reasons*";
+$password="*censored for security reasons*";
 $dbname="manishti_trip";
 // $username = "root";
 // $password = "";
