@@ -4,7 +4,7 @@
   Registration Page
   ![Registration](https://user-images.githubusercontent.com/69393822/122625831-cd367e00-d0c4-11eb-8f0f-04afabe447b2.JPG)
   It shows a "Successfully registered" message when the user is registered successfully.
-    If incase the entered emmail id has already been used it shows a "Email Id aready used" message.
+    If incase the entered email id has already been used it shows a "Email Id aready used" message.
       If incase the entered email id is in wrong format or the password is less than 6 characters, it shows neccessary promts in red colour
   ![Promts](https://user-images.githubusercontent.com/69393822/122625935-4504a880-d0c5-11eb-92ae-9ea9fb1ce46a.JPG)
   On successful registration the entry gets saved to the online database, and you don't need to worry about me knowing your password,password has been hashed!
