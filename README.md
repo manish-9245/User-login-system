@@ -9,7 +9,7 @@
       If incase the entered email id is in wrong format or the password is less than 6 characters, it shows neccessary promts in red colour.  
   ![Promts](https://user-images.githubusercontent.com/69393822/122625935-4504a880-d0c5-11eb-92ae-9ea9fb1ce46a.JPG)
   On successful registration the entry gets saved to the online database, and you don't need to worry about me knowing your password,password has been hashed!  
-  ![database](https://user-images.githubusercontent.com/69393822/122625982-8eed8e80-d0c5-11eb-9d0e-6c1723afd0ee.JPG)
+  ![database](https://user-images.githubusercontent.com/69393822/122625982-8eed8e80-d0c5-11eb-9d0e-6c1723afd0ee.JPG)  
   Login Page  
   ![Login Page](https://user-images.githubusercontent.com/69393822/122625946-5948a580-d0c5-11eb-8b3c-5dd3400ceb05.JPG)  
   On successfully logging in to the system you get redirected to a page that shows you have successfully logged in and also displays your name, you also have an option to logout on the page  
